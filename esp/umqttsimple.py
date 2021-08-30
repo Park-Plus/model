@@ -1,3 +1,5 @@
+# Credits: https://github.com/RuiSantosdotme
+
 try:
     import usocket as socket
 except:
